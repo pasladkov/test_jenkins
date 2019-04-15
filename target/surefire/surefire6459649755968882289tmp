@@ -1,0 +1,25 @@
+#surefire
+#Tue Apr 21 22:18:12 GMT+03:00 2015
+testClassesDirectory=D\:\\Development\\Projects\\Java\\Intellij\\pas-test\\target\\test-classes
+classPathUrl.4=C\:\\Users\\1\\.m2\\repository\\javax\\servlet\\servlet-api\\2.5\\servlet-api-2.5.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\1\\.m2\\repository\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
+classPathUrl.2=C\:\\Users\\1\\.m2\\repository\\org\\springframework\\spring\\2.5.6\\spring-2.5.6.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\Development\\Projects\\Java\\Intellij\\pas-test\\target\\classes
+reportsDirectory=D\:\\Development\\Projects\\Java\\Intellij\\pas-test\\target\\surefire-reports
+classPathUrl.0=D\:\\Development\\Projects\\Java\\Intellij\\pas-test\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\Development\\Projects\\Java\\Intellij\\pas-test\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\1\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\1\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.10\\surefire-junit3-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
